@@ -1,0 +1,14 @@
+{
+  "name": "jest_test",
+  "version": "1.0.0",
+  "description": "testing jest framework",
+  "main": "sum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
